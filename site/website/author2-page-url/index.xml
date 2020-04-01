@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c2b6</objectGroupId>
+	<objectId>c2b695f9-4772-da59-ea62-cf07a66f7084</objectId>
+	<internal-name>author2 file title</internal-name>
+	<title_t>author 2 title</title_t>
+	<file-name>index.xml</file-name>
+	<folder-name>author2-page-url</folder-name>
+	<disabled>false</disabled>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<body_html>&lt;p&gt;author2 body&lt;/p&gt;</body_html>
+	<createdDate>2020-04-01T13:04:12.463Z</createdDate>
+	<createdDate_dt>2020-04-01T13:04:12.463Z</createdDate_dt>
+	<lastModifiedDate>2020-04-01T13:04:12.463Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-01T13:04:12.463Z</lastModifiedDate_dt>
+</page>
